@@ -3,3 +3,6 @@
 ・欠損値補完  
 ・長期予測  
 ・対数尤度の計算  
+
+# 環境の初期設定
+pip install -r requirements.txt
