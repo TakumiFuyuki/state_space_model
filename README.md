@@ -6,3 +6,10 @@
 
 # 環境の初期設定
 pip install -r requirements.txt
+
+# 仮想環境におけるライブラリのインストール手順
+python -m venv .venv
+.venv\Scripts\Activate
+pip install numpy pandas matplotlib
+
+pip freeze > requirements.txt
