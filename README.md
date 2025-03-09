@@ -5,6 +5,8 @@
 ・対数尤度の計算  
 
 # 環境の初期設定
+python -m venv .venv  //エラーが出るかも, その場合は無視で
+.venv\Scripts\Activate  
 pip install -r requirements.txt  
 
 # 仮想環境におけるライブラリのインストール手順(powershell)
