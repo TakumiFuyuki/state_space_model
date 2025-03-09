@@ -1,4 +1,4 @@
-# state_space_model
+# State_Space_Model
 状態空間モデルにおける以下の3つの問題に対するアルゴリズム  
 ・欠損値補完  
 ・長期予測  
